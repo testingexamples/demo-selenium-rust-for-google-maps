@@ -1,0 +1,19 @@
+# Demo Selenium Rust for Google Maps
+
+> A Rust + `thirtyfour` test-pattern demo for Google Maps: real assertions, never executed against the live site. Read the caution in README.md first.
+
+## Docs
+
+- [README](README.md): The Terms-of-Service caution, what this demo tests, install notes.
+- [Spec](spec/index.md): The exact three test scenarios, selectors, and assertions, as the single source of truth.
+- [Agent instructions](AGENTS.md): The non-negotiable never-execute-against-live-google.com rule.
+- [Citation](CITATION.cff): How to cite this software.
+
+## Source
+
+- [demo.rs](src/demo.rs): The three `thirtyfour` test functions described in the spec.
+
+## Optional
+
+- [Google Maps example on testingexamples.github.io](https://testingexamples.github.io/examples/google-maps/): The nine-language-and-tool comparison page this demo's Rust example matches.
+- [thirtyfour on crates.io](https://crates.io/crates/thirtyfour): The Rust crate this demo depends on.

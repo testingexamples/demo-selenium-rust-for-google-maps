@@ -1,0 +1,17 @@
+{
+    "version": "0.2",
+    "ignorePaths": [],
+    "dictionaryDefinitions": [],
+    "dictionaries": [],
+    "words": [
+        "anyhow",
+        "cardiff",
+        "chromedriver",
+        "rustc",
+        "rustup",
+        "thirtyfour",
+        "tokio"
+    ],
+    "ignoreWords": [],
+    "import": []
+}
