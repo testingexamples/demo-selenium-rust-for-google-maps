@@ -7,7 +7,7 @@
 > at all, against the live `google.com/maps`. This repo's own history
 > never runs `cargo build`, `cargo check`, or `cargo test` against it. If
 > you want to practise these same patterns hands-on, point a similar
-> script at [testingexamples.github.io](https://testingexamples.github.io)
+> script at [testingexamples.github.io](https://testingexamples.github.io/en-001/practice/)
 > instead (see the sibling repo `demo-selenium-rust`), which was built
 > exactly for that: stable ids, names, classes, and text that don't shift
 > under you.
